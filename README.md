@@ -85,7 +85,8 @@ Destructors are special member functions that are called when an object goes out
 The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance.
 
 ---
-I'll complete soon ( including code and examples )
+I'm working on a project including max. oops concept (in single project). 
+### I 'll upload soon !!!
 ---
 
 
